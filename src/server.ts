@@ -6,6 +6,8 @@ app.get('/', (req: Request, res: Response) => {
   return res.status(200).json({ code: 'Sucesso' });
 });
 
-app.listen(8080, () => {
-  console.log('Rondando server na porta 8080');
+const port = 8080;
+
+app.listen(port, () => {
+  console.log(`Rondando server na porta ${port}`);
 });
