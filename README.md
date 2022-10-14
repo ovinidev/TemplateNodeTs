@@ -12,7 +12,7 @@ Tecnologias utilizadas no projeto:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60">
 &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="imagem" width="60">&nbsp;
 &nbsp;
 
 ## 🚀 Como executar
