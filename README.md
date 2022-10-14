@@ -1,4 +1,4 @@
-# Stitches config
+# Node template TS
 
 <p align="center">
   
